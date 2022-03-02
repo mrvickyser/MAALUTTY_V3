@@ -28,11 +28,11 @@ Project created by <a href="https://github.com/nijin-husni">nijin-husni</a> to m
   
   ### Deploy server 1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Husni-ser/MAALU) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvickyser/MAALU) 
 
   ### Deploy server 2
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HUSNI-SIR/MAALUTTY_DEPLOY)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mrvickyser/MAALUTTY_DEPLOY)
 
 ### The Hard Method
 ```js
